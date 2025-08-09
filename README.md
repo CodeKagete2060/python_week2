@@ -27,4 +27,11 @@ Save the script as a .py file, for example, list_manipulation.py.
 
 Run the script using a Python interpreter:
 
+text
+python list_manipulation.py
 Observe the output showing the final list and the index of the value 30.
+
+Sample Output
+text
+Final list: [10, 15, 20, 30, 40, 50, 60]
+Index of 30: 3
